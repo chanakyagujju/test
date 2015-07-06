@@ -41,4 +41,9 @@ Expected output :
 		.
 		message : 100
 		
-test issue1		
+test issue1
+
+test 2 issue2
+
+
+
